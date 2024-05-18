@@ -6,7 +6,7 @@ body, html {
 }
 
 .background {
-    background-image: url('BG.jpg'); /* Replace 'background-image.jpg' with your image file */
+    background-image: url('BG.jpg'); 
     background-size: cover;
     background-position: center;
     height: 100%;
